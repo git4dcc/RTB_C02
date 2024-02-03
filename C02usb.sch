@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
-Title "DPM C02"
-Date ""
+Title "C02"
+Date "2019-02-03"
 Rev "0"
 Comp "Frank Schumacher"
-Comment1 ""
+Comment1 "DCC/Railcom logger"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -374,7 +374,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 4250 1250 4350
 $Comp
-L Frank-sym:ISO7742 U?
+L RTB:ISO7742 U?
 U 1 1 5BBDFFBA
 P 6000 2800
 AR Path="/5B6C6B9D/5BBDFFBA" Ref="U?"  Part="1" 

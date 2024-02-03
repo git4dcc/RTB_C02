@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 6
-Title "DPM C02"
-Date ""
+Title "C02"
+Date "2019-02-03"
 Rev "0"
 Comp "Frank Schumacher"
-Comment1 ""
+Comment1 "DCC/Railcom logger"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -343,7 +343,7 @@ Connection ~ 4950 4050
 Wire Wire Line
 	4950 4050 4950 4100
 $Comp
-L Frank-sym:CDBU0245 D?
+L RTB:CDBU0245 D?
 U 1 1 5B6E0A8A
 P 3350 2600
 AR Path="/5B6E0A8A" Ref="D?"  Part="1" 
@@ -356,7 +356,7 @@ F 3 "" H 3350 2600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Frank-sym:IRLML6344 Q?
+L RTB:IRLML6344 Q?
 U 1 1 5B6E0AAD
 P 5050 3650
 AR Path="/5B6E0AAD" Ref="Q?"  Part="1" 
@@ -369,7 +369,7 @@ F 3 "https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a401535
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Frank-sym:MIC5235-5.0 U?
+L RTB:MIC5235-5.0 U?
 U 1 1 5B6E0AB4
 P 3750 1500
 AR Path="/5B6E0AB4" Ref="U?"  Part="1" 
@@ -684,7 +684,6 @@ Text Notes 2600 6200 0    50   ~ 10
 n.f.
 Wire Wire Line
 	1950 2200 1950 3250
-NoConn ~ 5450 2750
 Text Notes 800  850  0    118  ~ 0
 Track Interface
 $EndSCHEMATC
