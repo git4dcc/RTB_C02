@@ -9,7 +9,15 @@
 > <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_C02_1.jpg" width=500>
 <br>
 
-## Terminal screens
+# PCB
+<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_C02_3.png" width=500>
+
+- 2-layer PCB, FR4, 1.6mm
+- CPU: AVR64DA32
+
+[Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf)
+
+# Terminal screens
 Below some example screens for the different functional section,
 
 ### F2
