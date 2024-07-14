@@ -6,11 +6,11 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 
  [more](https://rtb4dcc.de/blog/#6)
 
-> <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_C02_1.jpg" width=500>
+> <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=500>
 <br>
 
 # PCB
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_C02_3.png" width=500>
+<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_3.png" width=500>
 
 - 4-layer PCB, FR4, 1.6mm
 - CPU: mega328pb
