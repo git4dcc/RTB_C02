@@ -2,7 +2,7 @@
 [![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_Project-FF6699)](https://www.rtb4dcc.de)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
 
- The C02 is designed to trace DCC/Railcom traffic for decoder debugging and development purposes. Particular the Railcom timing capture is an important feature of this module and helps to make decoders RCN standard compliant. The C02 uses the Vt100 terminal emulation as an output device.
+The C02 is designed to trace DCC/Railcom traffic for decoder debugging and development purposes. In particular the Railcom capture is an important feature of this module and helps to check if a decoders is RCN-217 standard compliant. The C02 uses the Vt100 terminal emulation for its user interface.
 
  [more](https://rtb4dcc.de/blog/#6)
 
@@ -12,8 +12,8 @@
 # PCB
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_C02_3.png" width=500>
 
-- 2-layer PCB, FR4, 1.6mm
-- CPU: AVR64DA32
+- 4-layer PCB, FR4, 1.6mm
+- CPU: mega328pb
 
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf)
 
