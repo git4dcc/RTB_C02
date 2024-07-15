@@ -18,11 +18,11 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 # Firmware
 Filename structure: { **pcb** }{ **code** }{ **version** }.hex
 
-Example: **D12F0001**.hex
+Example: **C02F0001**.hex
 
 |   | Description |
 | --- | --- |
-| **pcb** | Name of matching hardware (**D12**) |
+| **pcb** | Name of matching hardware (**C02**) |
 | **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI factory code) |
 | **version** | Release version (**####**) |
 
