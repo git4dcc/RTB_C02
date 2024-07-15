@@ -27,7 +27,8 @@ Example: **C02F0001**.hex
 | **version** | Release version (**####**) |
 
 # Terminal screens
-Below some example screens for the different functional section,
+Below some example screens of the different functional sections. The screens (called aspects) can be switched by pressing F1-F7.
+All screens are updated in real-time speed, ensuring always up-to-date information shown.
 
 | Aspect | Example |
 | --- | --- |
