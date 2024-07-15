@@ -6,16 +6,25 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 
  [more](https://rtb4dcc.de/blog/#6)
 
-> <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=500>
+> <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=800>
 <br>
 
 # PCB
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_3.png" width=500>
-
 - 4-layer PCB, FR4, 1.6mm
 - CPU: mega328pb
 
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf)
+
+# Firmware
+Filename structure: { **pcb** }{ **code** }{ **version** }.hex
+
+Example: **D12F0001**.hex
+
+|   | Description |
+| --- | --- |
+| **pcb** | Name of matching hardware (**D12**) |
+| **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI factory code) |
+| **version** | Release version (**####**) |
 
 # Terminal screens
 Below some example screens for the different functional section,
