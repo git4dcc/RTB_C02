@@ -29,17 +29,10 @@ Example: **C02F0001**.hex
 # Terminal screens
 Below some example screens for the different functional section,
 
-### F2
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F2.png" width=500>
-
-### F3
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F3.png" width=500>
-
-### F4
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F4.png" width=500>
-
-### F5
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F5.png" width=500>
-
-### F6
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500>
+| Aspect | Example |
+| --- | --- |
+| **F2:** DCC/Railcom line by line real-time trace. | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F2.png" width=500> |
+| **F3:** DCC/Railcom decoder payload | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F3.png" width=500> |
+| **F4:** DCC/Railcom timing<br> | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F4.png" width=500> |
+| **F5:** DCC command set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F5.png" width=500> |
+| **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
