@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 5
-Title "C02"
+Title "RTB - C02"
 Date "2024-07-14"
 Rev "0"
 Comp "Frank Schumacher"
 Comment1 "DCC/Railcom logger"
 Comment2 ""
 Comment3 ""
-Comment4 ""
+Comment4 "Licensed under the Apache License, Version 2.0"
 $EndDescr
 $Comp
 L MCU_Microchip_ATmega:ATmega328PB-AU U?
