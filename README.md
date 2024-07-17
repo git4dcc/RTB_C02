@@ -48,6 +48,6 @@ All screens are updated in real-time speed, ensuring always up-to-date informati
 | **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
 
 # Pictures
-<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=860>
+<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=300> <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_6.jpg width=300> <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_7.jpg width=300>
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
