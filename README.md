@@ -6,7 +6,7 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 
  [more](https://rtb4dcc.de/blog/dcc_logger/)
 
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=800>
+<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=860>
 <br>
 
 # PCB
@@ -46,3 +46,6 @@ All screens are updated in real-time speed, ensuring always up-to-date informati
 | **F4:** DCC/Railcom timing<br> | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F4.png" width=500> |
 | **F5:** DCC command set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F5.png" width=500> |
 | **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
+
+# Pictures
+<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=860>
