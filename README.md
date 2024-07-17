@@ -27,7 +27,8 @@ Example: **C02F0001**.hex
 | **version** | Release version (**####**) |
 
 # ISP
-The following Fuse setting are required (EXT=**0xf4**, HIGH=**0xd9**, LOW=**0x7f**)
+The following Fuse setting are required (EXT=**0xf4**, HIGH=**0xd9**, LOW=**0x7f**). The bootloader code has to be installed by using the ISP.
+****Important:** Before connecting the ISP, the jumper next to the ISP-6 interface must be closed.
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
