@@ -4,7 +4,7 @@
 
 The C02 is designed to trace DCC/Railcom traffic for decoder debugging and development purposes. In particular the Railcom capture is an important feature of this module and helps to check if a decoders is RCN-217 standard compliant. The C02 uses the Vt100 terminal emulation for its user interface.
 
- [more](https://rtb4dcc.de/blog/#6)
+ [more](https://rtb4dcc.de/blog/dcc_logger/)
 
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=800>
 <br>
