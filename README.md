@@ -6,7 +6,7 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 
  [more](https://rtb4dcc.de/blog/#6)
 
-> <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=800>
+<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=800>
 <br>
 
 # PCB
@@ -25,6 +25,13 @@ Example: **C02F0001**.hex
 | **pcb** | Name of matching hardware (**C02**) |
 | **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI factory code) |
 | **version** | Release version (**####**) |
+
+# ISP
+The following Fuse setting are required (EXT=**0xf4**, HIGH=**0xd9**, LOW=**0x7f**)
+
+| Fuses Setting | Bootloader Install |
+| --- | --- |
+|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPfuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
 
 # Terminal screens
 Below some example screens of the different functional sections. The screens (called aspects) can be switched by pressing F1-F7.
