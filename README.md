@@ -27,8 +27,7 @@ Example: **C02F0001**.hex
 | **version** | Release version (**####**) |
 
 # ISP
-The following Fuse setting are required (EXT=**0xf4**, HIGH=**0xd9**, LOW=**0x7f**). The bootloader code has to be installed by using the ISP.
-****Important:** Before connecting the ISP, the jumper next to the ISP-6 interface must be closed.
+The fuse settings as well as the bootloader code has to be installed by using the ISP. **Important:** Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed. The main code will then be installed/updated via copy/paste of the firmware file into  VT100 bootloader console prompt.
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
