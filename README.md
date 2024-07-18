@@ -33,7 +33,7 @@ The fuse settings as well as the bootloader code has to be installed by using th
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
-|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPfuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
+|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
 
 # Terminal screens
 Below some example screens of the different functional sections. The screens (called aspects) can be switched by pressing F1-F7.
