@@ -12,8 +12,10 @@ The C02 is designed to trace DCC/Railcom traffic for decoder debugging and devel
 # PCB
 - 4-layer PCB, FR4, 1.6mm
 - CPU: mega328pb
+- USB: FT232x (Mini-B)
+- DC/DC: NME0505SC (or compatible)
 
-[Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf)
+[Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/C02_0.zip)
 
 # Firmware
 Filename structure: { **pcb** }{ **code** }{ **version** }.hex
@@ -23,7 +25,7 @@ Example: **C02F0001**.hex
 |   | Description |
 | --- | --- |
 | **pcb** | Name of matching hardware (**C02**) |
-| **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI factory code) |
+| **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI/SPI factory code) |
 | **version** | Release version (**####**) |
 
 # ISP
