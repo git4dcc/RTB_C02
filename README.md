@@ -11,7 +11,7 @@ My C02 module is designed to trace DCC Railcom traffic for decoder debugging and
 <br>
 
 # Hardware
-My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 with a few 0402 parts. Reflow soldering is my recommendation, but with some experience handsoldering may also be possible. Of course, PCB assembly may be good option as well.
+My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but some 0402 parts. Reflow soldering is my recommendation, but with some experience handsoldering may also be possible.
 
 ## PCB
 - 4-layer PCB, FR4, 1.6mm
