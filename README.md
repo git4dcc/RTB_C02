@@ -27,13 +27,16 @@ Example: **C02F0001**.hex
 | **version** | Release version (**####**) |
 
 # ISP
-The fuse settings as well as the bootloader code has to be installed by using the ISP. **Important:** Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed. The main code will then be installed/updated via copy/paste of the firmware file into  VT100 bootloader console prompt.
+The fuse settings as well as the P-code (C02Pxxxx.hex) has to be installed by using the ISP.<br>
+**<ins>Important:</ins> Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed (yellow jumper on picture).**
 
 <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_8.jpg>
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
 |<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
+
+Future main code updates can be done via copy/paste of the new firmware (C02Fxxxx.hex) file content into the VT100 bootloader console prompt.
 
 # Terminal screens
 Below some example screens of the different functional sections. The screens (called aspects) can be switched by pressing F1-F7.
