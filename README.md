@@ -42,7 +42,7 @@ The fuse settings as well as the P-code (C02Pxxxx.hex) has to be installed by us
 | --- | --- |
 |<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
 
-Future main code updates can be done via copy/paste of the new firmware (C02Fxxxx.hex) file content into the VT100 bootloader console prompt.
+Subsequent main code updates can be done via uploading the new firmware (C02Fxxxx.hex) file into the bootloader console prompt.
 
 # Software
 ## Terminal screens
