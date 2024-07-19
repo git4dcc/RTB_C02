@@ -43,7 +43,7 @@ The fuse settings as well as the P-code (C02Pxxxx.hex) has to be installed by us
 |<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
 
 ## Bootloader
-Subsequent main code updates can be done via uploading the new firmware (C02Fxxxx.hex) file on the bootloader console prompt.<br>
+Subsequent main code updates can be done via uploading the new firmware (C02Fxxxx.hex) file to the bootloader console prompt.<br>
 
 - press F1 to switch to console screen
 - press ^b (ctrl-b) to enter bootloader
@@ -55,7 +55,7 @@ Subsequent main code updates can be done via uploading the new firmware (C02Fxxx
 
 
 # Software
-Operating the C02 within the terminal window.
+Operating the C02 is within the terminal window.
 ## Terminal screens
 Below some example screens of the different functional sections. The screens (called aspects) can be switched by pressing F1-F7.
 All screens are updated in real-time speed, ensuring always up-to-date information shown.
