@@ -19,7 +19,7 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 - USB: FT232x (Mini-B)
 - DC/DC: NME0505SC (or compatible)
 
-[Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/C02_0.zip)
+[Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/)
 
 ## Firmware
 Filename structure: { **pcb** }{ **code** }{ **version** }.hex
