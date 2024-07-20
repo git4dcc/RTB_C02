@@ -72,9 +72,9 @@ All screens are updated in real-time speed, ensuring always up-to-date informati
 | **F5:** DCC command set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F5.png" width=500> |
 | **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
 
-# Pictures
+# Images
 <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_6.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_7.jpg width=260>
 
-# YouTube
+## YouTube
 [<img src="https://img.youtube.com/vi/Kt1itq35Km0/0.jpg" width="25%">](https://www.youtube.com/watch?v=Kt1itq35Km0 "Short demo on youtube")
 
