@@ -19,6 +19,9 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 - USB: FT232x (Mini-B)
 - DC/DC: NME0505SC (or compatible)
 
+## Kicad
+Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
+
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/)
 
 ## Firmware
