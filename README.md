@@ -20,7 +20,7 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 - DC/DC: NME0505SC (or compatible)
 
 ## Kicad
-<b>Dependency:</b> Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
+:yellow_square: Dependency: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
 
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/)
 
