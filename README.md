@@ -20,7 +20,7 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 - DC/DC: NME0505SC (or compatible)
 
 ## Kicad
-:yellow_square: Dependency: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
+:yellow_circle: **Dependency:** Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
 
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/)
 
@@ -73,5 +73,9 @@ All screens are updated in real-time speed, ensuring always up-to-date informati
 | **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
 
 # Images
+This is how the PCB looks like.<br><br>
 <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_6.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_7.jpg width=260>
 
+# YouTube
+Some short videos to see the DCC/Railcom logger in action.<br><br>
+[<img src="https://img.youtube.com/vi/7zXp4IKSk08/0.jpg" width=260>](https://youtu.be/7zXp4IKSk08)  [<img src="https://img.youtube.com/vi/JmhkPcqBb-c/0.jpg" width=260>](https://youtu.be/JmhkPcqBb-c)
