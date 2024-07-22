@@ -4,8 +4,13 @@
 
 My C02 module is designed to trace DCC Railcom traffic for decoder debugging and development purposes. In particular the Railcom capture is an important feature and helps to validate if a decoders is RCN-217 compliant. The C02 uses the Vt100 terminal emulation control codes for its user interface. Therefore a VT100 capeable terminal program is a must (e.g. putty, teraterm). The USB interface is galvanically isolated from the DCC track potential.
 
+<details>
+<summary>User Guides</summary>
+
 - [User Guide - DE](https://rtb4dcc.de/dpm_user_guide_de/)<br>
 - User Guide - EN
+
+</details>
 
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=860>
 <br>
@@ -20,9 +25,15 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 - DC/DC: NME0505SC (or compatible)
 
 ## Kicad
-:yellow_circle: **Dependency:** Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys)
-
 [Schematic](doc/C02_schematic.pdf) | [Layout](doc/C02_layout.pdf) | [Gerber](gerber/)
+
+<details>
+<summary>Dependency</summary>
+<br>
+  
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+
+</details>
 
 ## Firmware
 Filename structure: { **pcb** }{ **code** }{ **version** }.hex
@@ -37,25 +48,36 @@ Example: **C02F0001**.hex
 
 ## ISP
 The fuse settings as well as the P-code (C02Pxxxx.hex) has to be installed by using the ISP.<br>
-**<ins>Important:</ins> Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed (yellow jumper on picture).**
 
+<details>
+<summary>Details</summary>
+<br>
+
+> **CAUTION:** Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed (yellow jumper on picture).
+
+<br>
 <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_8.jpg>
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
 |<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
 
+</details>
+
 ## Bootloader
 Subsequent main code updates can be done via uploading the new firmware (C02Fxxxx.hex) file to the bootloader console prompt.<br>
+
+<details>
+<summary>Details</summary>
 
 - press F1 to switch to console screen
 - press ^b (ctrl-b) to enter bootloader
 - upload the firmware file (C02Fxxxx.hex)
 - press x to exit the bootloader
 
+  <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_update.png">
 
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_update.png">
-
+</details>
 
 # Software
 Operating the C02 is within the terminal window.
