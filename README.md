@@ -12,7 +12,7 @@ My C02 module is designed to trace DCC Railcom traffic for decoder debugging and
 
 </details>
 
-<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_1.png" width=860>
+<img src=supplemental/images/C02_main.jpg width=860>
 <br>
 
 # Hardware
@@ -56,11 +56,11 @@ The fuse settings as well as the P-code (C02Pxxxx.hex) has to be installed by us
 > **CAUTION:** Before connecting the ISP, the jumper next to the ISP 6-pin interface must be closed (yellow jumper on picture).
 
 <br>
-<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_8.jpg>
+<img src=supplemental/images/C02_updi.jpg>
 
 | Fuses Setting | Bootloader Install |
 | --- | --- |
-|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_Fuses.png" width=500>|<img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_ISPmem.png" width=500>|
+|<img src=supplemental/images/C02_updi_fuses.jpg width=500>|<img src=supplemental/images/C02_updi_memory.jpg width=500>|
 
 </details>
 
@@ -75,7 +75,7 @@ Subsequent main code updates can be done via uploading the new firmware (C02Fxxx
 - upload the firmware file (C02Fxxxx.hex)
 - press x to exit the bootloader
 
-  <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_update.png">
+  <img src=supplemental/images/C02_debugIF.jpg>
 
 </details>
 
@@ -87,16 +87,16 @@ All screens are updated in real-time speed, ensuring always up-to-date informati
 
 | Aspect | Example |
 | --- | --- |
-| **F1:** Console prompt. | <img src="https://rtb4dcc.de/wp-content/uploads/2024/07/un_Logger_F1.png" width=500> |
-| **F2:** DCC/Railcom line by line real-time trace. | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F2.png" width=500> |
-| **F3:** DCC/Railcom decoder payload | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F3.png" width=500> |
-| **F4:** DCC/Railcom timing<br> | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F4.png" width=500> |
-| **F5:** DCC command set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F5.png" width=500> |
-| **F6:** Railcom response set | <img src="https://rtb4dcc.de/wp-content/uploads/2024/01/un_Logger_F6.png" width=500> |
+| **F1:** Console prompt. | <img src=supplemental/images/C02_screen_F1.jpg width=500> |
+| **F2:** DCC/Railcom line by line real-time trace. | <img src=supplemental/images/C02_screen_F2.jpg width=500> |
+| **F3:** DCC/Railcom decoder payload | <img src=supplemental/images/C02_screen_F3.jpg width=500> |
+| **F4:** DCC/Railcom timing<br> | <img src=supplemental/images/C02_screen_F4.jpg width=500> |
+| **F5:** DCC command set | <img src=supplemental/images/C02_screen_F5.jpg width=500> |
+| **F6:** Railcom response set | <img src=supplemental/images/C02_screen_F6.jpg width=500> |
 
 # Images
 This is how the PCB looks like.<br><br>
-<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_5.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_6.jpg width=260>  <img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_C02_7.jpg width=260>
+<img src=supplemental/images/C02_samples.jpg width=260>  <img src=supplemental/images/C02_closeup.jpg width=260>  <img src=supplemental/images/C02_usecase.jpg width=260>
 
 # YouTube
 Some short videos to see the DCC/Railcom logger in action.<br><br>
