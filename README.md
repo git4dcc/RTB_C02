@@ -7,7 +7,7 @@ My C02 module is designed to trace DCC Railcom traffic for decoder debugging and
 <details>
 <summary>User Guides</summary>
 
-- [User Guide - DE](https://rtb4dcc.de/dpm_user_guide_de/)<br>
+- [User Guide - DE](/../../../../dpm_user_guide_de/)<br>
 - User Guide - EN
 
 </details>
@@ -31,7 +31,7 @@ My current PCB layout uses SMD footprints with 0.5mm pitch and mostly 0603 but s
 <summary>Dependency</summary>
 <br>
   
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
