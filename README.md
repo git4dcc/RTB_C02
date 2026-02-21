@@ -7,7 +7,7 @@ My C02 module is designed to trace DCC Railcom traffic for decoder debugging and
 <details>
 <summary>User Guides</summary>
 
-- [User Guide - DE](/../../../../dpm_user_guide_de/)<br>
+- [User Guide - DE](https://rtb4dcc.de/DPM_User_Guide_de)<br>
 - User Guide - EN
 
 </details>
